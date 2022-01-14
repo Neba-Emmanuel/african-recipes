@@ -5,7 +5,7 @@
   <li>Achu and Yellow Soup</li>
   <li>Ndole and Plantain</li>
 
-#### Still to be styled 😏
+#### The website is still to be styled 😏
 
 ## <a href="https://neba-emmanuel.github.io/african-recipes/index.html">Live Preview</a> 
 
