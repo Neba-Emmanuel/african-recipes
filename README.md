@@ -4,6 +4,7 @@
   <li>Fufu and Eru</li>
   <li>Achu and Yellow Soup</li>
   <li>Ndole and Plantain</li>
+</ul>
 
 #### The website is still to be styled 😏
 
